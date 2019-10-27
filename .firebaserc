@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "qualified-acre-241102": {
+      "hosting": {
+        "tic-tac-toe": [
+          "qualified-acre-241102"
+        ]
+      }
+    }
+  }
+}
